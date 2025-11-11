@@ -4,7 +4,7 @@
 of Nippon Institute of Technology
 
 ### 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,css,cpp,java,python,react,flask,mysql,postgresql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,css,cpp,java,python,react,fastapi,flask,mysql,postgresql,docker)](https://skillicons.dev)
 -
 ### 📝 Recent Activities
 - Studying for the Applied Information Technology Engineer Examination
