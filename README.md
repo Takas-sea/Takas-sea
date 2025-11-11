@@ -1,12 +1,12 @@
-## Hi I'm Takasu👋
+## Hi, I'm Takasu 👋
 
-2rd-year Student,Department of Advanced Engineering and Department of Data Science
-of Nippon Institute of Technology
+2nd-year student in the Department of Advanced Engineering and the Department of Data Science  
+at Nippon Institute of Technology
 
 ### 🛠 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,css,cpp,java,python,react,fastapi,flask,mysql,postgresql,docker)](https://skillicons.dev)
--
+
 ### 📝 Recent Activities
-- Studying for the Applied Information Technology Engineer Examination
-- Developing a ToDo Web Application
-- Learning frameworks such as FastAPI and React
+- Preparing for the Applied Information Technology Engineer Examination
+- Developing a ToDo web application as a personal project
+- Learning web frameworks such as FastAPI and React
