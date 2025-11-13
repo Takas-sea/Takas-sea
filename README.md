@@ -10,3 +10,5 @@ at Nippon Institute of Technology
 - Preparing for the Applied Information Technology Engineer Examination
 - Developing a ToDo web application as a personal project
 - Learning web frameworks such as FastAPI and React
+
+[![Qiita](https://img.shields.io/badge/Qiita-55C500?logo=qiita&logoColor=white)](https://qiita.com/Takas-sea)
