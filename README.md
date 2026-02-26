@@ -1,6 +1,6 @@
 ## Hi, I'm Takasu 👋
 
-2nd-year student in the Department of Advanced Engineering and the Department of Data Science  
+3nd-year student in the Department of Advanced Engineering and the Department of Data Science  
 at Nippon Institute of Technology
 
 ### 🛠 Tech Stack
