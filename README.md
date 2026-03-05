@@ -8,6 +8,6 @@ at Nippon Institute of Technology
 
 ### 📝 Recent Activities
 - Developing a GitHub activity analysis and automated report generation application.
-- Currently learning Go.
+- Currently learning Go,java.
 
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?logo=qiita&logoColor=white)](https://qiita.com/Takas-sea)
