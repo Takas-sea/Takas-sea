@@ -4,7 +4,7 @@
 at Nippon Institute of Technology
 
 ### 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,css,cpp,go,java,python,react,nextjs,nodejs,fastapi,flask,mysql,postgresql,docker,terraform,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,css,cpp,go,java,python,react,nextjs,nodejs,fastapi,flask,mysql,postgresql,docker,terraform,aws,gcp)](https://skillicons.dev)
 
 ### 📝 Recent Activities
 - Developing a GitHub activity analysis and automated report generation application.
